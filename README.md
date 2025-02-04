@@ -15,6 +15,7 @@ I’m particularly interested in network security and look forward to deepening 
 
 📫 Let’s Connect!
 📩 Email: jeremyng313@gmail.com
-💼 LinkedIn:https://www.linkedin.com/in/jeremy-ng-ab6bb7272/
+💼 LinkedIn:www.linkedin.com/in/jeremy-ng-junjyang
+
 
 I’m always open to meeting like-minded individuals and collaborating on exciting projects.!
