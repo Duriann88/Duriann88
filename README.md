@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&center=true&vCenter=true&color=1DD05D&width=500&lines=Hi+there,+I'm+Jeremy+Ng!+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&center=true&vCenter=true&color=1DD05D&width=500&lines=Hi,+I'm+Jeremy+Ng!+👋" alt="Typing SVG" />
 </h1>
 
 <!-- LinkedIn icon -->
