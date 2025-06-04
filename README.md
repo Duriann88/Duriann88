@@ -22,8 +22,11 @@
 ### 🎧 Currently Jamming To
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4KFM3A5QF2IMcc6nHsu3Wp?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp" target="_blank">
+    <img src="https://img.shields.io/badge/Now%20Playing-The%20Weekend%20-%20Reminder-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing: Reminder by The Weeknd">
+  </a>
 </p>
+
 
 ---
 
