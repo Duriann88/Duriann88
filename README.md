@@ -10,24 +10,6 @@
   </a>
 </p>
 
-<!-- GitHub contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duriann88/Duriann88/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Duriann88/Duriann88/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Duriann88/Duriann88/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### 🎧 Currently Jamming To
-
-<p align="center">
-  <a href="https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing-The%20Weekend%20-%20Reminder-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing: Englishman In New york">
-  </a>
-</p>
-
-
 ---
 
 ### 🚀 Top Projects
