@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp" target="_blank">
-    <img src="https://img.shields.io/badge/Now%20Playing-The%20Weekend%20-%20Reminder-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing: Reminder by The Weeknd">
+    <img src="https://img.shields.io/badge/Now%20Playing-The%20Weekend%20-%20Reminder-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing: Englishman In New york">
   </a>
 </p>
 
